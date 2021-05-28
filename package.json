@@ -1,0 +1,23 @@
+{
+  "name": "stupidiseven",
+  "version": "1.0.0",
+  "description": "Why use the all mighty modulo operator or the totally useful npm package is-even when you can use this other totally useful npm package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguzg/StupidIsEven.git"
+  },
+  "keywords": [
+    "stupid",
+    "iseven"
+  ],
+  "author": "rguzg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rguzg/StupidIsEven/issues"
+  },
+  "homepage": "https://github.com/rguzg/StupidIsEven#readme"
+}
